@@ -3,7 +3,7 @@ Collection the SEED labs from my Network Security class
 
 ## Labs
 ### DNSSEC (Domain Name System Security)
-[Lab Instructions](https://seedsecuritylabs.org/Labs_20.04/Files/DNSSEC/DNSSEC.pdf)
+[Lab Instructions](https://seedsecuritylabs.org/Labs_20.04/Files/DNSSEC/DNSSEC.pdf) \
 [Lab Report](Labs/thomas-DNSSEC-SEEDLabs.pdf)
 A hands on and in depth apporach to how DNSSEC is used. Large emphasis on verifying the trust chain and how multiple domains interact with each other.
 ### PKI (Public Key Infrastructure)
