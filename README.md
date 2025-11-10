@@ -19,7 +19,7 @@ A lab focused on hands on application of public key encryption and how they inte
      
 ---
 ## TLS (Transport Layer Security)
-Focus on the Transport Layer of security, with a tighter emphasis the handshake protocol used to secure trust between devices.
+Focus on the Transport Layer of security, with a tighter emphasis the handshake protocol used to secure trust between devices.  
 [Lab Instructions](https://seedsecuritylabs.org/Labs_20.04/Files/Crypto_TLS/Crypto_TLS.pdf)  
 [Lab Report](Labs/thomas-TLS-SEEDLab.pdf)  
 ### Key Concepts & Tasks
@@ -33,7 +33,7 @@ Focus on the Transport Layer of security, with a tighter emphasis the handshake 
    - Python, OpenSSL, Docker
      
 ## DNSSEC (Domain Name System Security)
-A hands on and in depth approach to how DNSSEC is used. Large emphasis on verifying the trust chain and how multiple domains interact with each other.
+A hands on and in depth approach to how DNSSEC is used. Large emphasis on verifying the trust chain and how multiple domains interact with each other.  
 [Lab Instructions](https://seedsecuritylabs.org/Labs_20.04/Files/DNSSEC/DNSSEC.pdf)  
 [Lab Report](Labs/thomas-DNSSEC-SEEDLab.pdf)  
 ### Key Concepts & Tasks
